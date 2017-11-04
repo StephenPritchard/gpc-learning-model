@@ -1,0 +1,4 @@
+MinAbsoluteFrequency 2
+MinRelativeFrequency 0.09
+MinContextRuleDominance 2
+TrainingCorpusFilename corpus_monomorphemic.txt
